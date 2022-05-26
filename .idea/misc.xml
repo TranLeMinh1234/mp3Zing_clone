@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.277" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/drawable/add_playlist_shape.xml" value="0.277" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.277" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/drawable/ic_baseline_audiotrack_24.xml" value="0.277" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/drawable/ic_baseline_more_horiz_24.xml" value="0.277" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.277" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/drawable/ic_baseline_playlist_play_24.xml" value="0.277" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/drawable/ic_baseline_skip_next_24.xml" value="0.277" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.277" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/drawable/image_border_radius.xml" value="0.196" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/drawable/item_tracklist_bg.xml" value="0.196" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/drawable/play_box.xml" value="0.196" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/drawable/search_view_border.xml" value="0.196" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/layout/playlist_fragment.xml" value="0.23157894736842105" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/layout/playlist_viewholder.xml" value="0.23157894736842105" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/layout/popup_add_playlist.xml" value="0.21" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/layout/popup_list_playing.xml" value="0.12" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/layout/popup_more_feature.xml" value="0.11875" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/layout/tracklist_fragment.xml" value="0.14" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/layout/tracklist_viewholder.xml" value="0.25" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/menu/menu_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.196" />
+        <entry key="..\:/all_project/anroid2/mp3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.196" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
